@@ -22,7 +22,7 @@
 
 <a href="http://www.github.com/SoniyaJeena30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniyaJeena30&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/theriyasharma24"><img src="https://activity-graph.herokuapp.com/graph?username=theriyasharma24&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/SoniyaJeena30"><img src="https://activity-graph.herokuapp.com/graph?username=SoniyaJeena30&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
   <!--
 **Soniya-jeena/Soniya-jeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
