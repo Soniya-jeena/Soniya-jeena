@@ -1,6 +1,13 @@
 <h1> Hiee, This is Soniya Jeena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<h2>👩‍about me💻
+<h2>👩‍💻About Me</h2>
+
+- I am a tech enthusiast. 🤠
+- I am currently a second year Computer Science Student. 👨‍🎓
+- I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
+- I love solving real life problems through technology. 💡
+- Nowadays, I am building up my DSA skills with [leetcode](https://leetcode.com/SoniyaJeena30/).🖱
+- Here is my [Linkedin Profile](https://www.linkedin.com/in/soniya-jeena-088103239/). Feel free to connect! 👀
   <!--
 **Soniya-jeena/Soniya-jeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
