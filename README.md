@@ -1,6 +1,7 @@
 <h1> Hiee, This is Soniya Jeena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<!--
+<h2>👩‍about me💻
+  <!--
 **Soniya-jeena/Soniya-jeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
