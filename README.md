@@ -1,4 +1,4 @@
-<h1> Hiee, This is Soniya Jeena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> Hey! This is Soniya Jeena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <h2>👩‍💻About Me</h2>
 
